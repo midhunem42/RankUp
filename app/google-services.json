@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "694721878514",
+    "firebase_url": "https://rankup-b2ecc.firebaseio.com",
+    "project_id": "rankup-b2ecc",
+    "storage_bucket": "rankup-b2ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694721878514:android:290193291d99bb1c",
+        "android_client_info": {
+          "package_name": "com.neuroid.rankup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694721878514-hh6qd0ptvp6smka24qr9idp4d00oo9s9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neuroid.rankup",
+            "certificate_hash": "3a2f98f795794c364ce5470b3299ac6f1d2d0b15"
+          }
+        },
+        {
+          "client_id": "694721878514-62acrjgilhe1q0vk7690gb8hhr52sg7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5rXxnjZVKN2g3aYDQAPVWEtnj51SIdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694721878514-62acrjgilhe1q0vk7690gb8hhr52sg7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
